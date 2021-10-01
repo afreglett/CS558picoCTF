@@ -1,9 +1,9 @@
 {
-"name": "CS 558 picoCTF Problem 1 Freglette|Conill"
-"category": "Steganography"
-"description": "Find the flag in the picture running at ..."
+"name": "CS 558 picoCTF Problem 1 Freglette|Conill",
+"category": "Steganography",
+"description": "Find the flag in the picture running at ...",
 "score": 30,
-"hints": "["use this program"]
-"author": "Alexa Freglette & Nicole Conill"
+"hints": "["use this program"],
+"author": "Alexa Freglette & Nicole Conill",
 "organization": "CS 558"
 }
