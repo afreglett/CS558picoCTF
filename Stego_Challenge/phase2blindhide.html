@@ -5,13 +5,17 @@
     <link rel="stylesheet" href="stego.css">
 </head>
 <body>
-	<h1>Welcome to StegoWorld!<br></h1>
+	<h1>Welcome to Phase 2!<br></h1>
 	
-	<img src="Stego1.jpg" class="center1">
+	<img src="Stego2.bmp" class="center1">
 	<br><br>
 	
-	<a href="Stego1.jpg" download="Stego1.jpg" class="center2 button">
-		Download Stego1.jpg
+	<a href="Stego2.bmp" download="Stego2.bmp" class="center2 button">
+		Download Stego2.bmp
+	</a><br><br>
+	
+	<a href="http://diit.sourceforge.net/download.php" target="_blank" class="center2 button">
+		Download Digital Invisible Ink Toolkit
 	</a><br><br>
 	
 	<button class="center2 button" onClick="firstHint()">
@@ -19,15 +23,15 @@
 	</button><br>
 	
 	<div id="firstHint" style="display: none" class="hint">
-		Hint goes here.
+		After exploring Digital Invisible Ink Toolkit for a little while (including the various modes of encryption and decryption), check out the URL that you're currently on for something familiar.
 	</div><br>
 	
 	<button class="center2 button" onClick="secondHint()">
 		Hint #2
-	</button>
+	</button><br>
 	
 	<div id="secondHint" style="display: none" class="hint">
-		Hint goes here.
+		It's helpful to decode the .bmp in Digital Invisible Ink Toolkit to a readable .txt file. However, if you open that "readable" text file, chances are that that 4-letter tag in the first line is the only thing that's understandable. A little research on that tag should tell you what to convert the .txt file extension to in order to reveal the answer. (https://convertio.co/txt-jpg/ could be helpful.)
 	</div><br>
 	
 	<script>
