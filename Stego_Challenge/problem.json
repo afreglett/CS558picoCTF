@@ -1,0 +1,10 @@
+{
+"name": "Freglette|Conill",
+"category": "Steganography",
+"description": "Find the flag in the picture running at http://{{server}}:{{port}}",
+"score": 30,
+"hints": [],
+"author": "Alexa Freglette & Nicole Conill",
+"organization": "CS 558",
+"event": "CS 558"
+}
