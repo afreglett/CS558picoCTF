@@ -11,6 +11,12 @@ h1 {
 	font-family: Gotham, Tahoma, sans-serif;
 }
 
+p {
+	font-size:20px;
+  	text-align: center;
+	font-family: Gotham, Tahoma, sans-serif;
+}
+
 .button {
   background-color: #4CAF50;
   border: none;
