@@ -1,9 +1,9 @@
 {
 "name": "Freglette|Conill",
 "category": "Steganography",
-"description": "Jurassic times call for Jurassic measures. Go check out the page  http://server/problem/24401/phase1.html before it becomes extinct",
+"description": "Jurassic times call for Jurassic measures. Go check out the page  http://server/problem/24401/phase1.html before it becomes extinct.",
 "score": 30,
-"hints": [],
+"hints": "After recieving each flag to change the URL to, please include '.html' at the end of the flag.",
 "author": "Alexa Freglette & Nicole Conill",
 "organization": "CS 558",
 "event": "CS 558"
